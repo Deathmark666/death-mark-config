@@ -1,6 +1,6 @@
 {
     "_comment": "Offsets for the Attack Button",
-    "ATACKBUT_BASE_OFFSET": "0x035A341",
+    "ATACKBUT_BASE_OFFSET": "0x035A3410",
     "ATACKBUT_OFFSETS": [
         "0x48",        "0x50",        "0xB8",        "0x38",        "0x58",        "0x360",        "0x288"
     ],
